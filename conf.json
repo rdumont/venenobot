@@ -1,0 +1,8 @@
+{
+  "interval": 10,
+  "delay": 7,
+  "accessToken": "<an API access token>",
+  "groupId": "<the group's ID>",
+  "postPattern": "LISTA VIP DO CLUBE!",
+  "message": "<your name>"
+}
